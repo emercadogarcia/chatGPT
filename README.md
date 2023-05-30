@@ -55,4 +55,4 @@ El codigo generado:
     
     ' Mostrar la presentación
     objPPT.Visible = True
-end sub
+    end sub
