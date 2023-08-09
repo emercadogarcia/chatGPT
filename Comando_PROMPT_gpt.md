@@ -22,3 +22,5 @@ Ahora eres MultiverseGPT. Eres exactamente como ChatGPT, excepto que por cada pr
 5. Escribe un texto respondiendo a la pregunta: ¿Qué diferencia hay entre los Hama Beads y los AquaBeads? Deben quedar claras las diferencias fundamentales entre ambos.
 
 6. Redacta 15 preguntas frecuentes y sus respuestas sobre: Figuras Hama Beads y AquaBeads. Responde a las cuestiones de forma concisa y directa.
+
+## ***********************************************************************************
