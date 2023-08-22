@@ -1,0 +1,79 @@
+/* Reset de estilos */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Estilos para la navegación */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #444;
+    padding: 0.5rem 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+/* Estilos para las secciones */
+section {
+    padding: 2rem;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Estilos para las experiencias */
+.experience {
+    margin-bottom: 2rem;
+}
+
+/* Estilos para los estudios */
+.study {
+    margin-bottom: 2rem;
+}
+
+/* Estilos para los enlaces en las redes sociales */
+#redes-sociales ul {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#redes-sociales a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+#redes-sociales a:hover {
+    color: #666;
+}
+
+/* Estilos para el enlace de correo electrónico */
+footer a.email {
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #f8f8f8;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+footer a.email:hover {
+    background-color: #eee;
+    color: #555;
+}

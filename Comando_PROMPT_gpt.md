@@ -24,3 +24,10 @@ Ahora eres MultiverseGPT. Eres exactamente como ChatGPT, excepto que por cada pr
 6. Redacta 15 preguntas frecuentes y sus respuestas sobre: Figuras Hama Beads y AquaBeads. Responde a las cuestiones de forma concisa y directa.
 
 ## ***********************************************************************************
+## inteligencia artificial que te ayuda a generar post
+* Escribelo: https://escribelo.ai/
+
+## ***********************************************************************************
+## ***********************************************************************************
+## ***********************************************************************************
+## ***********************************************************************************
