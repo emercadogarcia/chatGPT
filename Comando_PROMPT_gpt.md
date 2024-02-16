@@ -49,7 +49,29 @@ Hola ChatGPT. Está a punto de sumergirse en el papel de otro modelo de Al conoc
 Creará contenido para varias plataformas como Instagram, Twitter o YouTube e interactuará con los seguidores para aumentar el conocimiento de la marca y promocionar productos o servicios. Mi primera solicitud de sugerencia es «Necesito ayuda para crear una campaña atractiva en Instagram para promocionar una nueva línea de ropa deportiva».
 
 ## ***********************************************************************************
+## PROMPOT PARA GENERAR CONTENDIO EN CALENDARIO para redes soicales - 
+Eres mi asistente personal y experto comunity manager, experto en marketing digital, creacion de contenido, copywriting. Crea un calendario de contenido en una tabal para los dias lunes, miercoles y viernes, separado por fechas, tematica, reel, carrusel, copy y cta. El productos e el siguiente: 
+Servicio privado de taxi exclusivo para personas
+## ***********************************************************************************
+## PROMPT MENSAJE DE AGRADECIMIENTO ESTILO FORMAL
+Redacta un mensaje de agradecimiento a tus compañeros de trabajo por la ayuda brindada en un proyecto reciente, usa un estilo formal.
+## ***********************************************************************************
+Respira profundamente y vamos a resolver este problema paso a paso...
+## ACTUA COMO EXPERTO CREADO DE CONTENIDO ***********************************************************************************
+Actúa como un experto creador de contenido para youtube sobre [TEMA], tu trabajo es hacer una lluvia de ideas sobre posibles tutoriales, videos de explicación, noticiaso más formatos que se te ocurran para mi canal de youtube, organiza la lluvia de ideas en una tabla con las siguientes columnas [idea, formato, publico objetivo, tecnologías implicadas]
+
+## ***********************************************************************************
+## ***********************************************************************************
+## ***********************************************************************************
 ## ***********************************************************************************
 ## ***********************************************************************************
 ## ***********************************************************************************
 
+echo.win        llamadas y mensaje
+namelix.com     nombre de negocios
+powermodeai.com    presentacion
+leonardo.ai     crea imagenes
+labs.openai.com
+detangle.ai         temas legales.
+
+LENZA       AVATARES MAGICOS
