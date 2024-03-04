@@ -95,8 +95,24 @@ Para tu proyecto cómo aplicarías la corrección de estilos. ¿Crees que podrí
 ## MENTOR con chatGPT  ***********************************************************************************
 "Quiero que actúes como mi profesor de inglés de nivel intermedio. Hazme una pregunta en inglés, espera a que responda y luego preguntáme otra cosa. Cuando cometa algún error, por favor corrígeme y dame retroalimentación."
 
+Ejemplo como mentor personalizado: 
+"Quiero que actúes como mi profesor de ingles de nivel intermedio. Hazme una pregunta en ingles, espera a que responda y luego pregúntame otra pregunta. Cuando cometa algún error por favor corrígeme y dame retroalimentación"
 
-## ***********************************************************************************
+ PROMPT: 
+ quiero que actues como mi profesor de Pytorch basico, primero me explicaras un concepto, luego algunos ejemplos de codigo, luego de eso me retaras con ejercicios, partiremos del nivel mas basico y luego si acierto en los ejercicios subiremos de nivel. Cuando cometa algun erroR, por favor corrigeme y dame retroalimentacion.
+
+## COMO ASISTENTE PERONAL ***********************************************************************************
+Actúa como mi asistente personal, genera mi calendario del dia empezando a las 7 am y terminando a la 11 pm, debe incluir una hora de ejercicio, y dos sesiones de trabajo de 4 horas cada una dentro del hora de 08:00 am a 17:00 pm, también contempla el tiempo para 3 comidas en el dia, un tiempo de estudio en Platzi y un tiempo paar generar contenido para redes sociales y tiempo de distracción u ocio.
+
+
+ ChatGPT como asistente personal -
+* Actúa como asistente personal que me ayude a hacer (lo que quiero que haga)
+* Actúa como nutricionista
+* Actúa como mi asistente personal, crea una lista de pendientes tipo to do list para planear mi viaje/ vuelo
+* Escribe un correo electrónico
+* Siempre se puede iterar con lo que yo quiera que haga
+
+
 ## ***********************************************************************************
 ## ***********************************************************************************
 
