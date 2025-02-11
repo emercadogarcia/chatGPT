@@ -1,0 +1,161 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #34495e;
+    --accent-color: #3498db;
+    --text-color: #333;
+    --border-color: #ecf0f1;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    max-width: 210mm;
+    margin: 2rem auto;
+    padding: 0 2rem;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.title {
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.contact-info {
+    font-style: normal;
+}
+
+.contact-info a {
+    color: var(--accent-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-info a:hover {
+    color: var(--secondary-color);
+}
+
+/* Secciones */
+.section {
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    color: var(--secondary-color);
+}
+
+/* Experiencia laboral */
+.job {
+    margin-bottom: 1.5rem;
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.5rem;
+}
+
+.job-title {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.job-date {
+    font-style: italic;
+    color: #7f8c8d;
+}
+
+.company {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.job-responsibilities {
+    list-style-type: square;
+    margin-left: 1.5rem;
+}
+
+/* Educación */
+.education-item {
+    margin-bottom: 1rem;
+}
+
+.degree {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.institution {
+    font-style: italic;
+}
+
+.education-date {
+    float: right;
+}
+
+/* Habilidades */
+.skills-list {
+    columns: 2;
+    list-style-type: none;
+}
+
+.skills-list li {
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    body {
+        padding: 0 1rem;
+    }
+    
+    .title {
+        font-size: 1.5rem;
+    }
+    
+    .skills-list {
+        columns: 1;
+    }
+    
+    .job-header {
+        flex-direction: column;
+    }
+    
+    .job-date {
+        margin-top: 0.3rem;
+    }
+}
+
+@media print {
+    body {
+        font-size: 12pt;
+        max-width: 100%;
+        margin: 0;
+    }
+    
+    .contact-info a::after {
+        content: " (" attr(href) ")";
+        font-size: 0.8em;
+        color: #666;
+    }
+}
